@@ -1,2 +1,2 @@
 # download-button-in-wordpress-media-library
-add download media button to wordpress default media library edit media panel
+wordpress plugin to add download media button to wordpress default media library edit media panel
