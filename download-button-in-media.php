@@ -2,7 +2,7 @@
 /*
 Plugin Name: Download Button in Media
 Description: add a download button to media image edit panel
-Author: Native-Code Web Division
+Author: Eyal Ron | Native-Code Web Division
 Developer: Eyal Ron
 version: 0.1
 */
